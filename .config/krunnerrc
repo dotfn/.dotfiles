@@ -1,0 +1,8 @@
+[General]
+FreeFloating=true
+
+[Plugins]
+helprunnerEnabled=false
+
+[Plugins][Favorites]
+plugins=krunner_systemsettings,krunner_services
