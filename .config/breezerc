@@ -1,0 +1,11 @@
+[Common]
+OutlineCloseButton=true
+OutlineIntensity=OutlineHigh
+ShadowSize=ShadowMedium
+
+[Style]
+ToolBarDrawItemSeparator=false
+
+[Windeco]
+ButtonSize=ButtonSmall
+DrawBackgroundGradient=true
