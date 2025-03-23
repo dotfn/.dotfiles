@@ -1,3 +1,20 @@
+[634ee838-06b8-4a5c-afae-0f8b96384878]
+Description=Window settings for Code
+clientmachine=localhost
+decocolor=Houston
+decocolorrule=2
+title=.zshrc (Working Tree) (.zshrc) - box - Visual Studio Code
+types=1
+windowrole=browser-window
+windowrolematch=1
+wmclass=code Code
+wmclasscomplete=true
+wmclassmatch=1
+
 [672184ae-b97b-48c7-b79e-8f47f5d67647]
 decocolor=Houston
 decocolorrule=2
+
+[General]
+count=1
+rules=634ee838-06b8-4a5c-afae-0f8b96384878
