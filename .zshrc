@@ -84,8 +84,8 @@ source "$ZSH/oh-my-zsh.sh"
 
 # Set personal aliases, overriding those provided by Oh My Zsh libs,
 # plugins, and themes.
-alias dotfiles='git --git-dir=$HOME/.dotfiles/.git --work-tree=$HOME'
-alias addDot='git --git-dir=$HOME/.dotfiles/.git --work-tree=$HOME add'
+alias dot='git --git-dir=$HOME/.dotfiles --work-tree=$HOME'
+alias addDot='git --git-dir=$HOME/.dotfiles --work-tree=$HOME add -f'
 
 # To customize prompt, run `p10k configure` or edit ~/.p10k.zsh.
 [[ ! -f ~/.p10k.zsh ]] || source ~/.p10k.zsh
