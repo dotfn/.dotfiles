@@ -1,0 +1,91 @@
+{
+	"breadcrumbs.enabled": false,
+  // "editor.guides.indentation": false,
+  "editor.fontFamily": "'CaskaydiaCove Nerd Font Mono','Droid Sans Mono', 'monospace', monospace",
+  "editor.inlayHints.fontFamily": "re",
+  "editor.scrollbar.horizontal": "hidden",
+  "editor.scrollbar.vertical": "hidden",
+  "editor.scrollbar.verticalScrollbarSize": 0,
+  "editor.lineHeight": 1.62,
+  "editor.guides.bracketPairs": true,
+  "editor.guides.highlightActiveIndentation": "always",
+  "editor.cursorBlinking": "expand",
+  "editor.cursorSmoothCaretAnimation": "on",
+  "editor.glyphMargin": false,
+  "editor.tabCompletion": "on",
+  "editor.fontLigatures": true,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  // "workbench.statusBar.visible": false,
+  "workbench.sideBar.location": "right",
+  "workbench.startupEditor": "none",
+"workbench.activityBar.location": "top",
+  "explorer.fileNesting.enabled": true,
+  "editor.formatOnPaste": true,
+  "[typescriptreact]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "prettier.documentSelectors": ["**/*.astro"],
+
+  "[javascript]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[json]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "[jsonc]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "explorer.fileNesting.expand": false,
+  "explorer.fileNesting.patterns": {
+    "package.json": "pnpm-lock.yaml, package-lock.json, yarn.lock",
+    ".prettierrc.mjs": ".prettierignore",
+    "README.md": "CONTRIBUTING.md"
+  },
+  "editor.linkedEditing": true,
+  "editor.codeActionsOnSave": {
+    "source.organizeImports": "explicit"
+  },
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "editor.formatOnSave": true,
+  "files.associations": {
+    "*.svg": "html"
+  },
+  "eslint.validate": [
+    "javascript",
+    "javascriptreact",
+    "astro",
+    "typescript",
+    "typescriptreact"
+  ],
+  "javascript.format.insertSpaceBeforeFunctionParenthesis": false,
+  "typescript.format.insertSpaceBeforeFunctionParenthesis": false,
+  "javascript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+  "typescript.format.insertSpaceAfterFunctionKeywordForAnonymousFunctions": false,
+  "editor.insertSpaces": false,
+  "editor.detectIndentation": false,
+  "[astro]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "editor.codeActionsOnSave": {
+      "source.organizeImports": "never"
+    }
+  },
+  "tailwindCSS.classAttributes": [
+    "class",
+    "className",
+    "ngClass",
+    "class:list"
+  ],
+  "terminal.integrated.env.linux": {},
+  "console-ninja.featureSet": "Community",
+  "editor.fontSize": 16,
+  "window.zoomLevel": 0.5,
+"workbench.iconTheme": "material-icon-theme",
+"window.titleBarStyle": "native",
+"window.commandCenter": false,
+"workbench.layoutControl.enabled": false,
+"chat.commandCenter.enabled": false,
+"window.menuBarVisibility": "toggle",
+"window.customTitleBarVisibility": "never",
+"workbench.colorTheme": "Houston",
+"telemetry.telemetryLevel": "off"
+}
