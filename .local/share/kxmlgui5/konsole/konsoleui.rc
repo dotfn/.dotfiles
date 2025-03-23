@@ -92,5 +92,6 @@
  </ToolBar>
  <ActionProperties scheme="Default">
   <Action name="split-view" priority="0"/>
+  <Action name="new-tab" shortcut="Ctrl+T"/>
  </ActionProperties>
 </gui>

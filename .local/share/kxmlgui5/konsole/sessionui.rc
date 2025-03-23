@@ -88,5 +88,6 @@
  <ActionProperties scheme="Default">
   <Action name="edit_find" priority="0"/>
   <Action name="edit_paste" priority="128"/>
+  <Action name="close-session" shortcut="Ctrl+W"/>
  </ActionProperties>
 </gui>
