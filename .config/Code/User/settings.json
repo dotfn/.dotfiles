@@ -84,7 +84,7 @@
 "window.commandCenter": false,
 "workbench.layoutControl.enabled": false,
 "chat.commandCenter.enabled": false,
-"window.menuBarVisibility": "toggle",
+"window.menuBarVisibility": "hidden",
 "window.customTitleBarVisibility": "never",
 "workbench.colorTheme": "Houston",
 "telemetry.telemetryLevel": "off"
