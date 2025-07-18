@@ -102,5 +102,7 @@ source $ZSH/oh-my-zsh.sh
 # Example aliases
 # alias zshconfig="mate ~/.zshrc"
 # alias ohmyzsh="mate ~/.oh-my-zsh"
+alias dot='git --git-dir=$HOME/.dotfiles --work-tree=$HOME'
+
 eval "$(starship init zsh)"
 
