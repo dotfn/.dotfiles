@@ -18,6 +18,9 @@ LatitudeFixed=-39.07979484732826
 LongitudeFixed=-59.728618421052644
 Mode=Location
 
+[TabBox]
+LayoutName=compact
+
 [Tiling]
 padding=4
 
