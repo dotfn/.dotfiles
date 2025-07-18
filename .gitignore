@@ -26,13 +26,13 @@
 /.zcompdump-box-5.9.zwc
 /.zsh_history
 
-/.config/Code/*
-/.config/go/*
-/.config/kate/*
-/.config/systemd/*
-/.config/pulse/*
-/.config/session/*
-/.config/KDE/*
+/.config/Code/
+/.config/go/
+/.config/kate/
+/.config/systemd/
+/.config/pulse/
+/.config/session/
+/.config/KDE/
 /.config/kde.org/
 /.config/kdedefaults/
 /.config/libaccounts-glib/
@@ -57,5 +57,5 @@
 /.config/kate-externaltoolspluginrc
 /.local/share/sddm/wayland-session.log
 /.local/share/recently-used.xbel
-/.local/share/user-places.xbel.bank
+/.local/share/user-places.xbel.bak
 /.local/share/user-places.xbel.tbcache
