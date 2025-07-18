@@ -132,8 +132,11 @@ ForegroundNormal=35,38,41
 ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
+[General]
+ColorScheme=BreezeLight
+
 [Icons]
-Theme=Papirus
+Theme=Papirus-Dark
 
 [WM]
 activeBackground=227,229,231

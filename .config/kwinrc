@@ -9,3 +9,7 @@ Active=true
 LatitudeFixed=-39.07979484732826
 LongitudeFixed=-59.728618421052644
 Mode=Location
+
+[org.kde.kdecoration2]
+ButtonsOnLeft=_X_I
+ButtonsOnRight=
