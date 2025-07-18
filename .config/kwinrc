@@ -1,0 +1,5 @@
+[Effect-overview]
+BorderActivate=1,7
+
+[ElectricBorders]
+BottomRight=ShowDesktop
